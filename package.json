@@ -7,14 +7,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sogaani/parcel-optimizer-data-url-round-bracket.git"
+    "url": "git+https://github.com/sogaani/parcel-optimizer-data-url-round-bracket.git"
   },
   "main": "src/DataURLOptimizer.js",
   "source": "src/DataURLOptimizer.js",
   "engines": {
     "parcel": "^2.0.0-beta.1"
   },
+  "author": "sogaani <soga.ani@gmail.com>",
   "dependencies": {
     "@parcel/plugin": "^2.0.0-beta.1"
+  },
+  "description": "",
+  "bugs": {
+    "url": "https://github.com/sogaani/parcel-optimizer-data-url-round-bracket/issues"
+  },
+  "homepage": "https://github.com/sogaani/parcel-optimizer-data-url-round-bracket#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
