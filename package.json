@@ -1,0 +1,20 @@
+{
+  "name": "parcel-optimizer-data-url-round-bracket",
+  "version": "1.0.0",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sogaani/parcel-optimizer-data-url-round-bracket.git"
+  },
+  "main": "src/DataURLOptimizer.js",
+  "source": "src/DataURLOptimizer.js",
+  "engines": {
+    "parcel": "^2.0.0-beta.1"
+  },
+  "dependencies": {
+    "@parcel/plugin": "^2.0.0-beta.1"
+  }
+}
